@@ -1,0 +1,9 @@
+datasets==4.0.0
+evaluate==0.4.5
+lion_pytorch==0.2.3
+numpy==2.3.2
+torch==2.8.0
+tqdm==4.67.1
+transformers==4.55.0
+trl==0.21.0
+wandb==0.21.1
